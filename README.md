@@ -1,5 +1,6 @@
 # Trooper-Bird---Game-
-Trooper Bird is a fast-paced arcade game that challenges players to navigate obstacles with precision. In this game, you control a bird that must move in all four directions—up, down, left, and right—to avoid various obstacles while ensuring the precious letter remains secure in its beak.
+Trooper Bird is a arcade game that challenges players to navigate obstacles with precision. In this game, you control a bird that must move in all four directions—up, down, left, and right to avoid various obstacles while ensuring the precious letter remains secure in its beak.
+It was a software development project for educational purpose. And my very first project.
 
 ## Project Details:
 - **Project Name:** Trooper Bird  
